@@ -1,0 +1,8 @@
+gradio
+tensorflow
+yfinance
+scikit-learn
+pandas
+duckduckgo-search
+langchain_community
+numpy
